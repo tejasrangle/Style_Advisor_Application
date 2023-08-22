@@ -46,5 +46,4 @@ project_directory/
 To Expand the system to include recommendations not just based on images but also on textual input, such as written descriptions of style preferences.
 
 - Incorporate Natural Language Processing (NLP):
-
 Implement an NLP component to process user-written descriptions or comments about their style preferences. This could improve the recommendation accuracy and add an interactive element.
