@@ -2,7 +2,7 @@
 # Style Advisor App
 
 ###  Project Overview
-The Fashion Recommender System is a web application designed to provide personalized style recommendations to users based on their preferences and tastes in fashion. The system aims to offer users a curated selection of clothing and accessory styles that match their individual preferences, allowing them to discover new fashion trends and find outfits that align with their personal style.
+The Fashion Recommender System is a web application designed to provide personalized style recommendations to users based on their preferences and tastes in fashion. The system aims to offer users a curated selection of clothing and accessory styles that match their preferences, allowing them to discover new fashion trends and find outfits that align with their style.
 
 
 ### Demo
@@ -35,8 +35,6 @@ project_directory/
 ├── fashion-product-images-small.zip  
 ├── uploads/  
 └── kaggle.json
-
-
 
 
 
